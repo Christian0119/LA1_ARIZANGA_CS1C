@@ -1,0 +1,9 @@
+let name = "Christian"; 
+let YouWannaBecomeInYourLife = "Hacker"; 
+let gender = "Male"; 
+let twitterHandle = "ishtian2006@gmail.com";
+
+console.log (name); 
+console.log (YouWannaBecomeInYourLife); 
+console.log (gender); 
+console.log (twitterHandle);

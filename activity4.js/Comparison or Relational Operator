@@ -1,0 +1,12 @@
+let firstFavNumb = 1;
+let secondFavNumb = 19;
+
+console.log(firstFavNumb > secondFavNumb);
+console.log(firstFavNumb < secondFavNumb);
+console.log(firstFavNumb >= secondFavNumb);
+console.log(firstFavNumb <= secondFavNumb);
+
+console.log(firstFavNumb === secondFavNumb);
+console.log(firstFavNumb !== secondFavNumb);
+console.log(firstFavNumb == secondFavNumb);
+console.log(firstFavNumb != secondFavNumb);
